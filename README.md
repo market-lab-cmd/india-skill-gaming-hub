@@ -1,18 +1,40 @@
 # India Skill Gaming Hub
 
-Educational gameplay documentation project focused on skill-based gaming strategies and performance optimization.
+Educational Markdown content project for a skill gaming website focused on practical strategy, review habits, and clear SEO-friendly reading.
 
-## Pages
+## What This Repository Contains
 
-| Page | Description |
-|------|-------------|
-| [Fundamentals](./content/fundamentals.md) | Core principles of skill-based gaming |
-| [Decision Making](./content/decision-making.md) | Strategic decision processes for skill games |
-| [Common Mistakes](./content/common-mistakes.md) | Performance pitfalls and how to avoid them |
-| [Game Awareness](./content/game-awareness.md) | Situational awareness in competitive gaming |
-| [Pattern Recognition](./content/pattern-recognition.md) | Identifying gameplay patterns and tendencies |
-| [Play Styles](./content/play-styles.md) | Aggressive, defensive, and balanced gaming approaches |
-| [Scenarios](./content/scenarios.md) | Tournament and competitive situations |
-| [Risk Balance](./content/risk-balance.md) | Managing uncertainty in skill-based competition |
-| [Advanced Concepts](./content/advanced-concepts.md) | Cognitive performance and skill optimization |
-| [Strategic Thinking](./content/strategic-thinking.md) | Mental frameworks for competitive decisions |
+The hub is organized as a connected set of content pages. Each page explains one layer of skill gaming in a calm, realistic tone and is written to help readers understand why a decision matters, where players usually misjudge a spot, and how to improve the same situation next time.
+
+## Content Map
+
+| Page | Focus |
+|------|-------|
+| [Home](./index.md) | Main hub overview and reading path |
+| [Fundamentals](./content/fundamentals.md) | Core habits that support steady decision quality |
+| [Common Mistakes](./content/common-mistakes.md) | Repeated errors, why they happen, and how to fix them |
+| [Decision Making](./content/decision-making.md) | How players choose under pressure with incomplete information |
+| [Game Awareness](./content/game-awareness.md) | Reading the full situation instead of only your own plan |
+| [Pattern Recognition](./content/pattern-recognition.md) | Noticing recurring structures without inventing false patterns |
+| [Play Styles](./content/play-styles.md) | Aggressive, balanced, and patient approaches in real sessions |
+| [Scenarios](./content/scenarios.md) | Using practical situations to build transfer learning |
+| [Risk Balance](./content/risk-balance.md) | Separating necessary risk from expensive guesswork |
+| [Strategic Thinking](./content/strategic-thinking.md) | Linking present choices to future position quality |
+| [Advanced Concepts](./content/advanced-concepts.md) | Higher-level ideas that refine, not replace, fundamentals |
+
+## Editorial Direction
+
+The writing style aims to feel like a strong player reviewing sessions honestly after repeated play. That means the articles avoid hype, avoid fake authority, and stay focused on useful questions:
+
+- Why did this decision matter?
+- What real scenario makes this topic important?
+- What do players usually misread here?
+- How can the same mistake be reduced next time?
+
+## Image Rules
+
+Each content page uses one verified image filename from `assets/images`. The visual tone stays educational, calm, and web-friendly, with no gambling or casino imagery.
+
+## Internal Linking
+
+Pages intentionally cross-link to nearby topics so readers can move from a mistake to the underlying concept, or from a concept to the review habit that makes it practical.
