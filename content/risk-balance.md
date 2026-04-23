@@ -10,7 +10,7 @@ This article looks at risk balance the way experienced players often discuss it 
 
 ## 🖼️ Risk Balance Overview
 
-![Skill gaming risk balance learning scene with notes, planning tools, and a calm strategic analysis workspace](../assets/images/risk-balance.png)
+![Skill gaming risk balance learning scene with notes, planning tools, and a calm strategic analysis workspace](../assets/images/risk-balance.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming risk balance is not about becoming timid. It is about choosing risk
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming risk balance
 smart risk taking in games

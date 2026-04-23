@@ -1,10 +1,10 @@
 # India Skill Gaming Hub
 
-Educational Markdown content project for a skill gaming website focused on practical strategy, review habits, and clear SEO-friendly reading.
+A teaching-focused content project for a skill gaming website built around practical strategy, session review, and player improvement.
 
 ## What This Repository Contains
 
-The hub is organized as a connected set of content pages. Each page explains one layer of skill gaming in a calm, realistic tone and is written to help readers understand why a decision matters, where players usually misjudge a spot, and how to improve the same situation next time.
+The hub is organized as a connected set of content pages. Each page explains one layer of skill gaming in the tone of an experienced player teaching through review: why a decision mattered, where the read usually goes wrong, and what to do better next time.
 
 ## Content Map
 

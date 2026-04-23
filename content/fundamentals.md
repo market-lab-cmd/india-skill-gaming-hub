@@ -10,7 +10,7 @@ This page is written like real review notes after many sessions. It focuses on w
 
 ## 🖼️ Fundamentals Overview
 
-![Skill gaming fundamentals study scene with notebook, calm desk setup, and practical review-focused learning environment](../assets/images/fundamentals.png)
+![Skill gaming fundamentals study scene with notebook, calm desk setup, and practical review-focused learning environment](../assets/images/fundamentals.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming fundamentals are what make good decisions repeatable. The strongest
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming fundamentals
 gaming fundamentals guide

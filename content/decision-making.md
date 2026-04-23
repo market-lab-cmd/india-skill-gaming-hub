@@ -10,7 +10,7 @@ This guide looks at decision making like a real player review would: what strong
 
 ## 🖼️ Decision Making Overview
 
-![Skill gaming decision making study scene with notes, calm analysis, and practical strategy review tools](../assets/images/decision-making.png)
+![Skill gaming decision making study scene with notes, calm analysis, and practical strategy review tools](../assets/images/decision-making.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming decision making improves when players trust process over impulse. T
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming decision making
 how to make better game decisions

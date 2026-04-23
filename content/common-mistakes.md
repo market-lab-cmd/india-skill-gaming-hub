@@ -10,7 +10,7 @@ This article focuses on what those mistakes look like in realistic play, why the
 
 ## 🖼️ Common Mistakes Overview
 
-![Skill gaming common mistakes review scene with notes, reflection, and a calm educational practice setup](../assets/images/common-mistakes.png)
+![Skill gaming common mistakes review scene with notes, reflection, and a calm educational practice setup](../assets/images/common-mistakes.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming common mistakes become expensive when they stop feeling unusual. Th
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming common mistakes
 game mistakes review

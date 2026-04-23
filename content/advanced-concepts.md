@@ -10,7 +10,7 @@ This article explains advanced concepts in a realistic way. It focuses on why th
 
 ## 🖼️ Advanced Concepts Overview
 
-![Skill gaming advanced concepts study scene with layered notes, diagrams, and a calm educational strategy environment](../assets/images/advanced-concepts.png)
+![Skill gaming advanced concepts study scene with layered notes, diagrams, and a calm educational strategy environment](../assets/images/advanced-concepts.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming advanced concepts become valuable only when they make hard spots cl
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming advanced concepts
 advanced strategy in skill gaming

@@ -10,7 +10,7 @@ This guide explains play styles through realistic review notes: why style matter
 
 ## 🖼️ Play Styles Overview
 
-![Skill gaming play styles comparison in a calm learning workspace with notes, diagrams, and practical strategy review](../assets/images/play-styles.png)
+![Skill gaming play styles comparison in a calm learning workspace with notes, diagrams, and practical strategy review](../assets/images/play-styles.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming play styles are useful only when they stay connected to the positio
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming play styles
 aggressive vs balanced play

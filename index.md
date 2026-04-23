@@ -2,7 +2,7 @@
 
 ## 🪶 Introduction
 
-India Skill Gaming Hub is built for readers who want practical game knowledge, not empty motivation or recycled tips. The goal is to make skill gaming easier to study through calm, realistic articles that explain what matters, why players misread spots, and how better habits are built over repeated review.
+India Skill Gaming Hub is built for players who already know the rules but want to understand the game more deeply. The point is not to collect tips. The point is to look at what keeps happening in real sessions and build habits that still hold up when the table gets uncomfortable.
 
 This hub is especially useful if you already know the basic rules of a game but feel that your results still swing because your thinking is inconsistent. Each page is written like a careful set of review notes: what strong players notice, what weaker decisions usually look like in real sessions, and how to reduce the same mistake from happening again.
 
@@ -10,13 +10,13 @@ This hub is especially useful if you already know the basic rules of a game but 
 
 ## 🖼️ Hub Overview
 
-![India Skill Gaming Hub overview with a calm study desk, notebook, diagrams, and a learning-focused gaming strategy workspace](./assets/images/overview.png)
+![India Skill Gaming Hub overview with a calm study desk, notebook, diagrams, and a learning-focused gaming strategy workspace](./assets/images/overview.webp)
 
 ---
 
 ## 🎯 What Is India Skill Gaming Hub?
 
-India Skill Gaming Hub is a repository-based educational guide about skill gaming strategy, decision quality, pattern recognition, and session review. It is organized as a learning path, so readers can move from fundamentals into more advanced topics without losing clarity.
+India Skill Gaming Hub is a practical guide about skill gaming strategy, decision quality, pattern recognition, and session review. It is organized as a learning path, so readers can move from fundamentals into more advanced topics without losing the thread.
 
 The main idea is simple: most players do not need more random tips. They need a better way to think during the game and a better way to review after the game. That is why the content focuses on decision logic, repeatable habits, common errors, and realistic improvement loops.
 
@@ -32,7 +32,7 @@ That matters because improvement usually comes from reducing avoidable errors, n
 
 These pages work best when you read them with recent session memory in mind. Instead of treating an article as theory, connect each section to one real spot you remember. Ask yourself where you made the decision, what you believed at the time, and what detail you ignored.
 
-This approach turns reading into active study. It also makes the content more useful for SEO and for human readers because the articles answer practical search intent such as how to think better, how to review mistakes, and how to stop repeating the same error under pressure.
+This approach turns reading into active study. Instead of collecting ideas, you start checking your own decisions against something concrete: what you saw, what you assumed, what you missed, and what should change next session.
 
 # 🧠 3. Start With Fundamentals Before Advanced Ideas
 
@@ -110,13 +110,13 @@ India Skill Gaming Hub is designed to make skill gaming easier to study in a rea
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 india skill gaming hub
-skill gaming strategy guide
-skill gaming review notes
-game decision making guide
-practical gaming improvement
+skill gaming strategy
+review notes
+decision making
+practical improvement
 
 ---
 

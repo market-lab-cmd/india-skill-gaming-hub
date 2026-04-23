@@ -10,7 +10,7 @@ This article explains game awareness through realistic session review: why aware
 
 ## 🖼️ Game Awareness Overview
 
-![Skill gaming awareness practice scene with observation notes, whiteboard cues, and a calm analytical workspace](../assets/images/game-awareness.png)
+![Skill gaming awareness practice scene with observation notes, whiteboard cues, and a calm analytical workspace](../assets/images/game-awareness.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming game awareness makes decisions more accurate because it keeps your 
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming game awareness
 how to improve awareness in games

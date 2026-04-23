@@ -10,7 +10,7 @@ This page treats scenarios as real study material, not as entertainment. It expl
 
 ## 🖼️ Scenarios Overview
 
-![Skill gaming scenario study scene with diagrams, notes, and a calm educational strategy workspace](../assets/images/scenarios.png)
+![Skill gaming scenario study scene with diagrams, notes, and a calm educational strategy workspace](../assets/images/scenarios.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming scenarios help players learn faster because they connect strategy t
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming scenarios
 learning from game scenarios

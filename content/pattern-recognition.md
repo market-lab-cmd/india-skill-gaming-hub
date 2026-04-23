@@ -10,7 +10,7 @@ This page looks at pattern recognition through practical review. It explains why
 
 ## 🖼️ Pattern Recognition Overview
 
-![Skill gaming pattern recognition study setup with diagrams, notes, and a calm educational analysis environment](../assets/images/pattern-recognition.png)
+![Skill gaming pattern recognition study setup with diagrams, notes, and a calm educational analysis environment](../assets/images/pattern-recognition.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming pattern recognition becomes powerful when it is built from repeated
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming pattern recognition
 how to spot patterns in games

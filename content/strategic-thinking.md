@@ -10,7 +10,7 @@ This guide explains strategic thinking in a practical way: why it matters, how p
 
 ## 🖼️ Strategic Thinking Overview
 
-![Skill gaming strategic thinking scene with planning notes, diagrams, and a calm educational workspace](../assets/images/strategic-thinking.png)
+![Skill gaming strategic thinking scene with planning notes, diagrams, and a calm educational workspace](../assets/images/strategic-thinking.webp)
 
 ---
 
@@ -110,7 +110,7 @@ Skill gaming strategic thinking helps players protect future options instead of 
 
 ---
 
-## 🔥 SEO Keywords
+## 🔥 Key Terms
 
 skill gaming strategic thinking
 planning ahead in games
