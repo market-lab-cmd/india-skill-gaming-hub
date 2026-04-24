@@ -74,6 +74,46 @@ If you want to refine your style without turning it into identity, the best comp
 
 ---
 
+## 🧩 Real Session Example: Style Or Timing Problem?
+
+A player may review a session and say, "I played too passively." Sometimes that is true. But often the deeper issue is timing, not style. The player did not need to become aggressive all the time. They needed to recognize the one or two moments where the position actually supported action.
+
+The same happens with aggressive players. They may believe their style is the problem when the real leak is forcing pressure in unsupported spots. The correction is not always to become patient. It may be to keep the active style but require stronger evidence before using it.
+
+This distinction matters because changing your entire style is difficult and often unnecessary. Refining triggers is usually more practical.
+
+---
+
+## 🧭 Why Players Misread Their Own Style
+
+Players often describe their style based on identity, not evidence. They say they are patient, aggressive, balanced, or creative because that is how they like to see themselves. Actual session notes often tell a different story.
+
+A player who believes they are patient may be hesitating in clear spots. A player who believes they are aggressive may only be active after frustration. A player who believes they are balanced may simply be inconsistent.
+
+The best way to understand style is to review repeated decisions. What do you do when ahead? What do you do after a mistake? What do you do when the table slows down? Those answers reveal style more honestly than labels do.
+
+---
+
+## 🛠️ How To Refine A Play Style
+
+Start by writing your default tendency in one sentence. Then write the condition where that tendency helps and the condition where it hurts. For example: "I am patient, which helps in unclear spots, but I sometimes miss windows when the table becomes vulnerable."
+
+Next, build one adjustment trigger. A patient player might use: "act sooner when the position has already given enough information." An aggressive player might use: "pause when the move mainly feels strong rather than clearly supported."
+
+The goal is not to erase your natural style. The goal is to make it responsive to position quality, table rhythm, and risk.
+
+---
+
+## 📌 Player Review Checklist
+
+- What did my actual decisions show about my style today?
+- Did my style follow the position or my mood?
+- Where did patience become hesitation?
+- Where did aggression become forcing?
+- What one trigger would make my style more adaptable next session?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Treating play style like an identity instead of a response to the position.
@@ -101,6 +141,10 @@ If you often recognize the right moment only after it has already passed, your p
 ### Should I try to change my style completely?
 
 Usually no. It is often better to refine timing and awareness within your current tendencies first.
+
+### How do I know whether my style is improving?
+
+Your style is improving when your decisions become easier to explain in review. You should be able to say why the position asked for patience, pressure, or balance instead of saying you acted that way because it is "how you play."
 
 ---
 

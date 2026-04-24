@@ -74,6 +74,46 @@ If you are not sure whether a repeated spot is truly a pattern or just a memorab
 
 ---
 
+## 🧩 Real Session Example: The Pattern That Was Almost Right
+
+Pattern recognition becomes tricky when a current spot looks similar to a previous one but has one important difference. A player may remember that a certain rhythm usually leads to weakness, then act quickly because the pattern feels familiar.
+
+In review, the player may discover that the current spot had a different pressure level, different timing, or a different opponent response. The pattern was not useless, but it was incomplete. It gave a starting point, not a final answer.
+
+This is why strong pattern recognition includes both similarity and difference. The question is not only "have I seen this before?" It is also "what is different enough to change the response?"
+
+---
+
+## 🧭 Why False Patterns Feel Convincing
+
+False patterns feel convincing because memory favors dramatic examples. A painful mistake or a satisfying win becomes easy to recall, and the mind starts treating it as a stronger lesson than it deserves. This is especially dangerous when the player has not written down enough examples to compare.
+
+Another reason is emotional comfort. A pattern gives the player a story, and stories reduce uncertainty. But a story that reduces uncertainty is not always accurate. It must still be checked against current information.
+
+Reliable pattern recognition depends on repeated evidence, context, and review. Without those three, it becomes guesswork with a confident voice.
+
+---
+
+## 🛠️ How To Build A Pattern Library
+
+Keep short notes after sessions. Do not write every detail. Record the situation type, the signal you noticed, the decision made, and whether the same structure appeared before. Over time, these notes become a practical pattern library.
+
+Group patterns by decision problem rather than by outcome. For example: "rushed pressure after comfort," "late update after rhythm change," or "overtrusting a single clue." These labels are more useful than simply writing "won" or "lost."
+
+When a pattern appears again, use it as a question, not a command. Let it guide your attention, then confirm whether the current table still supports the same response.
+
+---
+
+## 📌 Player Review Checklist
+
+- Have I seen this structure more than once, or only remembered one vivid example?
+- What details are truly similar to the earlier spot?
+- What detail might change the correct response?
+- Is the pattern supported by current awareness?
+- Did the pattern improve judgment, or did it make me automatic?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Declaring a pattern after one vivid example instead of repeated evidence.
@@ -101,6 +141,10 @@ Review repeated situations from your own sessions and keep short notes on what a
 ### Is pattern recognition more important than awareness?
 
 They work together. Awareness helps you notice what is happening now, and pattern recognition helps you compare it to what has happened before.
+
+### How should I use a pattern during live play?
+
+Use it as a prompt to ask better questions. A pattern can tell you where to look, but the current position still decides whether the old response is correct.
 
 ---
 

@@ -74,6 +74,46 @@ For many readers, the most useful path into this topic is through [Skill Gaming 
 
 ---
 
+## 🧩 Real Session Example: The Clever Line That Added Noise
+
+Advanced mistakes often begin with a line that sounds impressive in review language. The player considered image, timing, opponent adjustment, and several layers of information. But when the spot is reviewed honestly, the simpler line may have been clearer and nearly as valuable.
+
+This does not mean advanced thinking is bad. It means advanced thinking must earn its place. If layering information does not improve clarity, it may only create a story that makes an ordinary decision harder.
+
+A useful advanced line should answer a real problem in the position. If the position does not need it, restraint is the higher-level skill.
+
+---
+
+## 🧭 Why Advanced Concepts Get Misused
+
+Advanced concepts get misused when players want to feel ahead of the table. The language of high-level play can become attractive by itself: deception, adaptation, reverse pressure, tempo control, image management. These ideas can be useful, but only when the session actually supports them.
+
+Another reason is selective review. A player remembers the one advanced line that worked and forgets the ordinary spots where similar complexity created avoidable mistakes. Without honest review, advanced ideas become stories of identity rather than tools.
+
+The best advanced players are not the ones who use complex ideas most often. They are the ones who know when the spot deserves them.
+
+---
+
+## 🛠️ How To Study Advanced Concepts Safely
+
+Use marginal spots as your training ground. Avoid reviewing only obvious wins or obvious mistakes. Marginal spots force you to compare small trade-offs, information quality, and future reactions more carefully.
+
+When you apply an advanced concept, write down what it was supposed to improve. Did it improve timing? Did it protect against an adjustment? Did it make a future response easier? If you cannot answer clearly, the concept may not have been necessary.
+
+Advanced study should sharpen your fundamentals. If it makes you less honest about position quality, risk, or awareness, step back and rebuild the base.
+
+---
+
+## 📌 Player Review Checklist
+
+- Did the spot truly need an advanced idea?
+- Which basic read supported the advanced line?
+- Did layering information improve clarity or add noise?
+- What simpler line was available?
+- Did the concept change behavior in a useful way, or only sound sophisticated afterward?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Treating complicated analysis as proof of advanced understanding.
@@ -101,6 +141,10 @@ If the line mainly feels clever rather than clearly useful, that is a warning si
 ### What is the best way to practice advanced concepts?
 
 Review marginal spots, not just obvious ones, and check whether the concept changed your actual decisions in later sessions.
+
+### What is the clearest warning sign that advanced thinking is hurting me?
+
+If your explanation becomes longer while the decision becomes less clear, you may be using advanced language to cover uncertainty. Strong advanced thinking usually makes the spot cleaner, not foggier.
 
 ---
 

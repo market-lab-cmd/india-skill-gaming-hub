@@ -74,6 +74,46 @@ Readers who struggle with unclear risk spots usually benefit from revisiting [Sk
 
 ---
 
+## 🧩 Real Session Example: The Risk That Was Optional
+
+A common risk-balance leak appears when a player treats an optional risk as if the position demanded it. The line has upside, the player can imagine the reward clearly, and the table feels like it might reward boldness. But in review, the position often had a quieter line with similar value and less downside.
+
+The key question is not "can this work?" Many risky lines can work. The stronger question is "does this position require this risk, or am I taking it because the upside feels attractive?" That question separates disciplined courage from impatience.
+
+In real review notes, good risk usually remains explainable even when the result fails. Bad risk often depends on the result to look justified.
+
+---
+
+## 🧭 Why Players Underestimate Downside
+
+Players underestimate downside because reward is easier to picture. The mind naturally fills in the best-case path: the read is right, the timing is right, the response is favorable. The failure path is less pleasant to imagine, so it gets reviewed quickly or not at all.
+
+Emotion also changes risk appetite. After frustration, risk can feel like a way to recover control. After success, risk can feel safer than it really is. Neither feeling is reliable enough to guide the decision alone.
+
+Risk balance improves when you force the downside into plain language before acting. If you cannot explain what happens when the read is wrong, the risk is probably not ready yet.
+
+---
+
+## 🛠️ How To Build A Risk Standard
+
+Use a simple standard: reason, downside, recovery. First, name the reason for the risk. Second, name the downside if the read is wrong. Third, ask whether the position remains recoverable. If any part is vague, slow down.
+
+After the session, tag each risky decision as necessary, optional, or emotional. Necessary risk had a clear purpose. Optional risk had alternatives. Emotional risk was mostly driven by discomfort, frustration, or overconfidence.
+
+Over time, this creates a personal risk profile. You will see whether you avoid too much risk, take too much optional risk, or only become reckless in certain emotional states.
+
+---
+
+## 📌 Player Review Checklist
+
+- Was this risk required by the position or only attractive?
+- What was the cost if my read was wrong?
+- Did the timing support commitment?
+- Could I recover if the risk failed?
+- Would I still call this a good risk without knowing the result?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Treating optional risk as if the position demanded it.
@@ -101,6 +141,10 @@ Because the reward is easier to imagine than the failure, especially when emotio
 ### What is a simple risk rule I can use in sessions?
 
 Name the downside before acting. That small pause often exposes whether the risk is disciplined or impulsive.
+
+### Is a successful risky move always a good decision?
+
+No. A risky move can succeed for reasons that do not make the process reliable. Review whether the risk was necessary, supported, and recoverable before treating it as a lesson to repeat.
 
 ---
 

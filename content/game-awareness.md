@@ -74,6 +74,46 @@ This page becomes more useful when read alongside [Skill Gaming Pattern Recognit
 
 ---
 
+## 🧩 Real Session Example: The Plan That Became Outdated
+
+Picture a session where your first plan made sense. The table was quiet, the pressure was low, and your position looked stable. A few turns later, the rhythm changes. One opponent speeds up, another becomes unusually passive, and the position that once supported patience now asks for a different response.
+
+Players with weak awareness keep following the original plan because it was reasonable when it was created. Stronger players notice that the table has changed and ask whether the old plan still fits. This is one of the clearest signs of real game awareness: not just forming a plan, but knowing when the plan has expired.
+
+In review, these spots often sound like "I had the right idea, but I was late." That usually means the player saw the original position clearly but missed the transition.
+
+---
+
+## 🧭 Why Players Miss Table Signals
+
+Most missed signals come from attention narrowing too much. A player becomes attached to their own line, then starts treating everything else as background noise. The table is still giving information, but the player is no longer listening for it.
+
+Another reason is signal overload. Some players try to track every pause, every action, and every small change. That creates noise instead of awareness. Better awareness comes from choosing useful categories: pace, pressure response, and meaningful changes.
+
+The goal is not to become hyper-alert. The goal is to notice the few signals that actually change the decision.
+
+---
+
+## 🛠️ How To Train Awareness Without Overloading
+
+Before a session, choose one awareness focus. For example: "track who changes speed under pressure" or "notice when the table shifts from quiet to urgent." Keep the focus simple enough that you can remember it while playing.
+
+After the session, write one sentence about the biggest table change you noticed and one sentence about a change you missed. This turns awareness from a vague quality into a trainable habit.
+
+If your notes repeatedly say that you saw the change too late, pair this page with [Skill Gaming Decision Making](./decision-making.md). Awareness gives you the signal, but decision making helps you act on it before the window closes.
+
+---
+
+## 📌 Player Review Checklist
+
+- What was the table rhythm early in the session?
+- When did that rhythm change, and did I notice it in time?
+- Did I keep following an old plan after the position changed?
+- Which signal mattered most: timing, pressure, behavior, or position?
+- Did my awareness improve the next decision, or did it stay as observation only?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Focusing on your plan so much that the rest of the situation disappears.
@@ -101,6 +141,10 @@ They overlap, but awareness is broader. Pattern recognition helps you notice rec
 ### How do I avoid overthinking while trying to be more aware?
 
 Track a few categories consistently instead of trying to monitor everything at once.
+
+### What is the easiest awareness habit to start with?
+
+Start by tracking rhythm changes. Ask whether the table is quieter, faster, more cautious, or more forceful than it was earlier. That one habit improves many later reads.
 
 ---
 

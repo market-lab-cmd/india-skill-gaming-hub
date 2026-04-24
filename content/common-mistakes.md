@@ -74,6 +74,46 @@ If the mistake comes from poor reads, [Skill Gaming Game Awareness](./game-aware
 
 ---
 
+## 🧩 Real Session Example: The Mistake That Looked Like Confidence
+
+A common review pattern is a player saying, "I had a strong feeling there." In the moment, that feeling may look like confidence. In review, it often turns out to be a thin read built from one clue, one previous result, or one emotional push from the last few turns.
+
+For example, a player may notice an opponent slowing down and immediately treat that as weakness. The mistake is not noticing the slowdown. The mistake is promoting it to certainty before checking whether the table context supports that interpretation. Was the opponent actually uncertain, or were they waiting? Did the same behavior mean the same thing earlier, or is this a new situation?
+
+This is why common mistakes are so valuable to study. They do not always look foolish while they are happening. Many of them feel reasonable until the review exposes the missing checkpoint.
+
+---
+
+## 🧭 Why Repeated Mistakes Survive Review
+
+Repeated mistakes survive because players often review them at the wrong level. They say "I should have played better" or "I should have been more patient," but those statements are too broad to change behavior. A useful review names the early trigger.
+
+The trigger might be discomfort with waiting, overconfidence after a good result, frustration after a missed chance, or a habit of trusting the first story that explains the table. Once the trigger is visible, the correction becomes much more practical.
+
+The goal is not to become mistake-free. The goal is to recognize the mistake while it is forming, when a small pause can still change the decision.
+
+---
+
+## 🛠️ How To Build A Correction Routine
+
+Choose one repeated error and give it a clear replacement action. If you overtrust single clues, your replacement action might be: "name one reason this read could be wrong." If you force action after discomfort, your replacement might be: "wait one beat and identify the real pressure."
+
+Keep the correction narrow for at least a few sessions. Many players fail because they try to fix five leaks at once. A single well-defined correction becomes easier to remember under pressure and easier to measure afterward.
+
+After the session, ask whether the warning sign appeared, whether you noticed it in time, and whether the replacement action changed the next decision. That is the kind of review that turns common mistakes into useful study material.
+
+---
+
+## 📌 Player Review Checklist
+
+- What exact habit repeated across more than one session?
+- What early warning sign appeared before the mistake?
+- Did I mistake activity for strength or certainty for accuracy?
+- Was the problem strategic, emotional, or information-based?
+- What one replacement action can I realistically remember next time?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Confusing visible activity with genuinely strong decision quality.
@@ -101,6 +141,10 @@ Describe the spot, the information you trusted, the part you ignored, and the al
 ### Should I fix many mistakes at once?
 
 Usually no. One well-defined correction applied consistently is more effective than trying to repair everything in a single week.
+
+### How do I know whether a mistake is truly repeated?
+
+Look for the same thinking pattern, not the same exact result. If you keep trusting weak information, forcing action after discomfort, or reviewing only outcomes, the surface situation may change while the core mistake stays the same.
 
 ---
 

@@ -74,6 +74,46 @@ Readers who want to deepen this process should pair this page with [Skill Gaming
 
 ---
 
+## 🧩 Real Session Example: The Choice That Was Not Really Urgent
+
+One of the most common decision-making traps is false urgency. The table feels uncomfortable, a previous result is still in your mind, and the next action seems like it must happen immediately. In review, the position often shows more room than the player believed.
+
+Imagine a spot where you have partial information and two possible lines: one forceful, one patient. The forceful line feels satisfying because it ends uncertainty. The patient line feels uncomfortable because it asks you to keep observing. A senior player does not choose patience automatically, but they do ask whether urgency is real or emotional.
+
+That small question often changes the whole decision. If the danger is immediate, action may be correct. If the danger is only felt pressure, acting too soon may create the problem you were trying to avoid.
+
+---
+
+## 🧭 Why Players Make Poor Decisions With Good Information
+
+Bad decisions are not always caused by missing information. Sometimes the information is available, but the player weights it badly. A recent win may make a thin line feel stronger. A recent mistake may make a normal risk feel dangerous. A familiar pattern may make the current spot look more certain than it is.
+
+This is why decision quality depends on classification. Before choosing a line, name the type of spot. Is it a control spot, a recovery spot, a protection spot, or an opportunity spot? If you name the spot incorrectly, the decision will often be wrong even if some of your observations are accurate.
+
+Good decision making is less about feeling certain and more about using the right process for the kind of uncertainty you actually face.
+
+---
+
+## 🛠️ How To Train A Better Decision Process
+
+Use a short three-step process during play: identify the real pressure, compare the practical downside, and ask what the next decision will look like. This is simple enough to remember and strong enough to improve many close spots.
+
+After the session, review only two or three decisions. More than that often becomes noise. For each decision, write what you knew at the time, what you assumed, what you ignored, and what line you would test next time.
+
+Over several sessions, patterns will appear. You may discover that your weakest decisions happen after comfort, after frustration, or when a spot has more than one reasonable option. That discovery is more useful than a vague goal like "make better decisions."
+
+---
+
+## 📌 Player Review Checklist
+
+- Did I identify the real pressure or only react to discomfort?
+- What information was confirmed, and what was only assumed?
+- Did I compare realistic alternatives before choosing?
+- What did this decision do to the next decision?
+- Would I still respect the logic if the outcome had gone the other way?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Trusting confidence more than the quality of the underlying information.
@@ -101,6 +141,10 @@ Because recent outcomes often distort confidence, urgency, and risk tolerance wi
 ### Should I review every decision after a session?
 
 No. Focus on the unclear, costly, or emotionally charged ones first. Those usually teach the most.
+
+### What is the best first decision rule to practice?
+
+Start with this: name the downside before taking a thin line. It does not make you passive; it simply forces the risk to become visible before emotion turns it into certainty.
 
 ---
 

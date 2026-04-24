@@ -74,6 +74,46 @@ Scenario work improves most when it feeds back into [Skill Gaming Decision Makin
 
 ---
 
+## 🧩 Real Session Example: The Turning Point You Forgot
+
+Players often remember the ending of a difficult scenario but forget the turning point. They remember the result, the emotional moment, or the final action. In review, the useful lesson usually appears earlier, when the position first changed.
+
+For example, the key moment may not be the final decision. It may be the first missed signal, the first overcommitment, or the first time the player refused to update an old read. Once that turning point is named, the scenario becomes much more useful.
+
+Good scenario study asks: what changed, when did it change, and what should have changed in my thinking?
+
+---
+
+## 🧭 Why Scenario Lessons Fail To Transfer
+
+Scenario lessons fail when players memorize the surface details instead of the underlying pressure. They remember one exact spot and try to copy the same response into a different situation. That creates false confidence.
+
+A transferable scenario lesson names the decision problem. Was the problem timing? Risk balance? Emotional recovery? Pattern recognition? Once the decision problem is clear, the lesson can travel to other games and sessions.
+
+The purpose of a scenario is not to create a script. It is to make a type of pressure easier to recognize next time.
+
+---
+
+## 🛠️ How To Write Better Scenario Notes
+
+Use four lines: setup, turning point, decision, lesson. The setup explains the position. The turning point names what changed. The decision records what you did. The lesson explains what you would check earlier next time.
+
+Keep scenario notes short. Long notes often hide the lesson under too much detail. A useful scenario note should be easy to reread before a session and easy to compare with a similar spot later.
+
+If you collect several scenarios, group them by problem type: rushed decisions, missed rhythm shifts, bad risk, false patterns, or style mistakes. This turns scattered memories into a real study library.
+
+---
+
+## 📌 Player Review Checklist
+
+- What was the exact turning point in the scenario?
+- What did I believe before the turning point?
+- What information should have changed my plan?
+- Is this lesson about timing, risk, awareness, or decision quality?
+- Can this lesson transfer to another similar spot?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Treating scenarios like scripts instead of studying the priorities inside them.
@@ -101,6 +141,10 @@ Usually one to three meaningful spots are enough. Depth is more useful than volu
 ### Why do scenarios help under pressure?
 
 Because familiarity lowers confusion. When the structure feels known, your mind stays clearer.
+
+### How detailed should a scenario note be?
+
+Detailed enough to preserve the decision problem, but short enough to reread. If the note does not identify the turning point, it is usually too vague.
 
 ---
 

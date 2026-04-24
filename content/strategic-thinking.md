@@ -74,6 +74,46 @@ This page connects especially well with [Skill Gaming Decision Making](./decisio
 
 ---
 
+## 🧩 Real Session Example: The Move That Won Now And Lost Later
+
+Strategic mistakes often look fine in the moment. A move may solve the immediate problem, create pressure, or protect value right away. The issue appears later when that same move leaves fewer options, creates a predictable pattern, or makes the next decision harder.
+
+In review, this kind of mistake sounds like, "The first move worked, but then I had no good follow-up." That is a strategic-thinking problem. The player judged the move by its immediate effect but did not ask what future shape it created.
+
+Good strategy does not require predicting everything. It requires noticing whether the current move builds a position you can still manage after the table responds.
+
+---
+
+## 🧭 Why Plans Become Rigid
+
+Plans become rigid when players become attached to the idea that made sense earlier. Once a plan feels smart, it can become hard to abandon. The player starts defending the plan instead of reading the table.
+
+Another reason is fear of uncertainty. Updating a plan means admitting that the position changed, and that can feel uncomfortable. But flexible strategy is not weakness. It is the reason the plan survives contact with real play.
+
+A practical plan should have a direction, a reason, and an update trigger. Without the update trigger, even a good plan can become stale.
+
+---
+
+## 🛠️ How To Practice Strategic Thinking
+
+Before taking a meaningful action, ask: what am I trying to create? The answer should be specific enough to review later. "Play better" is not a strategic aim. "Keep options open while testing the table reaction" is much more useful.
+
+After the session, compare expected shape with actual shape. Did the move create the pressure, flexibility, or control you expected? If not, was the issue the plan itself, the timing, or a failure to update?
+
+This turns strategy into a repeatable process rather than a story you tell after the result.
+
+---
+
+## 📌 Player Review Checklist
+
+- What future position was I trying to create?
+- Did the current move support that aim?
+- What trade-off did the plan accept?
+- What signal should have made me update sooner?
+- Did the plan stay useful after the table responded?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Making each decision separately without a clear aim for the phase.
@@ -101,6 +141,10 @@ Often because they were too rigid or because they were built before enough infor
 ### How can I review strategy after a session?
 
 Ask what you expected the move to create, what actually changed, and whether the plan should have been updated earlier.
+
+### What is the simplest strategic habit to build first?
+
+Before a key move, name what you want the next phase to look like. This keeps strategy connected to real decisions instead of becoming abstract theory.
 
 ---
 

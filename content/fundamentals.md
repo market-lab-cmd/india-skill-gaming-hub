@@ -74,6 +74,46 @@ If your review keeps pointing to rushed choices or unclear trade-offs, the next 
 
 ---
 
+## 🧩 Real Session Example: The Ordinary Spot That Reveals Everything
+
+Imagine a session where nothing dramatic has happened yet. The pace is normal, the table has not clearly shifted, and your first few choices all look reasonable. This is exactly where fundamentals matter most, because ordinary spots are where weak habits hide.
+
+A player with weak fundamentals might make a quick action because the position looks familiar. A stronger player pauses just long enough to check three things: what changed since the last turn, whether the current position actually supports pressure, and what kind of decision will be easier on the next turn. The difference is small in the moment, but large across many sessions.
+
+In review, these ordinary spots often explain more than the dramatic ones. A player may remember the final mistake, but the real damage began three decisions earlier when the baseline was never established.
+
+---
+
+## 🧭 Why Players Misread Fundamentals
+
+Players often misread fundamentals because they expect improvement to feel more exciting. They want a new trick, a sharper line, or a clever adjustment. Fundamentals feel too quiet by comparison, so they get ignored until pressure exposes the same basic leak again.
+
+Another common reason is outcome bias. If a loose decision works once, the player may treat it as proof that the process was fine. If a disciplined decision fails, the player may abandon the right habit too early. This is why fundamentals must be reviewed through decision quality, not only through results.
+
+The more honest question is not "did it work this time?" The better question is "would this process stay useful if I repeated it across many similar spots?"
+
+---
+
+## 🛠️ How To Practice Fundamentals Between Sessions
+
+The best practice method is small enough to repeat. After each session, choose one unclear decision and write a short note in this format: situation, information available, decision made, better checkpoint for next time. Keep it brief. The goal is not to write a long report. The goal is to make your thinking visible.
+
+During the next session, use one simple cue. For example: "check what changed before acting" or "name the downside before forcing pressure." One cue is easier to remember than a full strategy list, especially when the table becomes uncomfortable.
+
+Over time, this builds a practical feedback loop. You observe, decide, review, and return with one cleaner habit. That is how fundamentals become reliable rather than theoretical.
+
+---
+
+## 📌 Player Review Checklist
+
+- Did I understand the real objective of the position before acting?
+- Did I react to the table rhythm or only to my own preferred plan?
+- Did I confuse a familiar spot with a genuinely supported decision?
+- Did emotion from the previous result affect my next choice?
+- Did my review identify a repeatable habit, or only describe the outcome?
+
+---
+
 ## ⚠️ Common Mistakes
 
 - Treating fundamentals as beginner material and skipping them too early.
@@ -101,6 +141,10 @@ Observation is usually the best place to start because better observation improv
 ### Should I study fundamentals every week?
 
 Yes, but lightly. A short review habit done often is more useful than an occasional deep reset.
+
+### What should I do if fundamentals feel too basic?
+
+Review one recent loss or unclear session and look for the first small decision that made later choices harder. Most players find that the problem was not a missing advanced idea. It was a basic checkpoint skipped under pressure.
 
 ---
 
