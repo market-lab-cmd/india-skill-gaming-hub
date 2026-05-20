@@ -166,7 +166,7 @@ real session analysis guide
 
 ## Further Reading
 
-- [Related gameplay notes](https://market-lab-cmd.github.io/india-skill-gaming-hub/)
+- [Related gameplay notes](../)
 
 ---
 
